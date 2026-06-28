@@ -1,4 +1,4 @@
-# Modern Simple Calculator 🧮
+# Modern Simple Calculator 
 
 A clean, modern command-line calculator built in Python that performs basic arithmetic operations. This project showcases the use of structural pattern matching in modern Python.
 
@@ -6,7 +6,7 @@ This project was developed as part of my Python Developer internship at **CognoR
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Modern Python Syntax:** Implements Python 3.10+'s structural pattern matching (`match-case`) instead of traditional `if-elif` chains for cleaner, faster execution.
 - **Supported Operations:** - Addition (`+`)
@@ -18,14 +18,14 @@ This project was developed as part of my Python Developer internship at **CognoR
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - **Python 3.10+** (Utilizes modern `match-case` statements)
 - Standard I/O modules
 
 ---
 
-## 📦 How to Run
+##  How to Run
 
 1. **Clone the repository:**
    ```bash
